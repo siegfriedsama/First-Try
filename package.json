@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Fujimaru01/FujimaruBot"
+		"url": "https://github.com/siegfriedsama/SiegfriedBot"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "Siegfried Sama",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Fujimaru01/FujimaruBot/issues"
+		"url": "https://github.com/siegfriedsama/SiegfriedBot"
 	},
-	"homepage": "https://github.com/Fujimaru01/FujimaruBot",
+	"homepage": "https://github.com/siegfriedsama/SiegfriedBot",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
