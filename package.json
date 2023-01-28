@@ -2,7 +2,7 @@
 	"name": "SiegfriedBot",
 	"version": "7.3.1",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-	"main": "0.2Siegfried.js",
+	"main": "0Siegfried.js",
 	"scripts": {
 		"start": "pm2 kill && pm2 start index.js -i 1 --no-daemon",
 		"login": "node login",
